@@ -4,6 +4,6 @@ Sideways scroller in multiplexed sprites on the right hand side on top of a clev
 
 All original work by DIDI of Laxity. 
 
-Backward engineered by my.
+Backward engineered by me.
 
 Compatible with Kick Assembler.
